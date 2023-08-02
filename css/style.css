@@ -12,3 +12,12 @@
     margin-top: 200px;
     color: rgb(98, 97, 97);
 }
+.header{
+    margin-left: 100px;
+    color: rgb(98, 88, 88)
+}
+.footer{
+    text-align: center;
+    color: rgb(98, 88, 88);
+    margin-top: 100px;
+}
