@@ -3,7 +3,7 @@
     color: blueviolet
 }
 
-.titulo {
+.titulo,.nombre {
     text-align: center;
     color: blue
 }
@@ -20,4 +20,9 @@
     text-align: center;
     color: rgb(98, 88, 88);
     margin-top: 100px;
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
 }
